@@ -5,6 +5,6 @@ public class AddTwoNumbers {
       int num1 = 8, num2 = 15, sum;
       sum = num1 + num2;
 
-      System.out.println("Sum of these numbers: "+sum);
+      System.out.println("These are the Sum of numbers: "+sum);
    }
 }
